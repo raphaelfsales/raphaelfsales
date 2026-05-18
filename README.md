@@ -32,6 +32,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ## 🤖 AI Dev Workflow
 
@@ -40,7 +43,6 @@
 ![Superpowers](https://img.shields.io/badge/Superpowers-8A2BE2?style=flat&logo=github&logoColor=white)
 ![GSD](https://img.shields.io/badge/GSD-get--shit--done-black?style=flat&logo=npm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
 ---
 
 ## 📌 Projetos em destaque
