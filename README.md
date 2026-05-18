@@ -35,6 +35,8 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=white)
 
 ## 🤖 AI Dev Workflow
 
@@ -43,21 +45,12 @@
 ![Superpowers](https://img.shields.io/badge/Superpowers-8A2BE2?style=flat&logo=github&logoColor=white)
 ![GSD](https://img.shields.io/badge/GSD-get--shit--done-black?style=flat&logo=npm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
----
-
-## 📌 Projetos em destaque
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| 🤖 Em breve | Agente de viagens AI via WhatsApp | TypeScript, IA, WhatsApp API |
-| ⚡ Em breve | SaaS AI-Native | Supabase, Claude, TypeScript |
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raphaelfsales&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelfsales&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=raphaelfsales&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=raphaelfsales&theme=tokyonight&hide_border=true" />
 </p>
