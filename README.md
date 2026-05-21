@@ -1,4 +1,4 @@
-<h1 align="center">Oi, eu sou o Raphael Sales 👋</h1>
+<h1 align="center">Raphael Sales 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer • AI-Native Builder</b><br/>
